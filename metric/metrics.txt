@@ -1,0 +1,20 @@
+./dataset/20/val_lwir
+# Validation # PSNR: mean: nan, std: nan
+# Validation # SSIM: mean: nan, std: nan
+# Validation # LPIPS: mean: nan, std: nan
+/root/data2/PID/dataset/20/val_lwir
+# Validation # PSNR: mean: 2.9804e+01, std: 3.3497e-01
+# Validation # SSIM: mean: 8.8974e-01, std: 2.2385e-02
+# Validation # LPIPS: mean: 8.4296e-02, std: 8.0240e-03
+/root/data2/PID/dataset/20/val_lwir
+# Validation # PSNR: mean: 2.9804e+01, std: 3.3497e-01
+# Validation # SSIM: mean: 8.8974e-01, std: 2.2385e-02
+# Validation # LPIPS: mean: 8.4296e-02, std: 8.0240e-03
+/root/data2/PID/dataset/20/val_lwir
+# Validation # PSNR: mean: 3.5185e+01, std: 1.9303e+00
+# Validation # SSIM: mean: 9.2816e-01, std: 3.0031e-02
+# Validation # LPIPS: mean: 2.6733e-02, std: 4.7165e-03
+/root/data2/PID/dataset/20/val_lwir
+# Validation # PSNR: mean: 2.7860e+01, std: 6.3887e+00
+# Validation # SSIM: mean: 7.7994e-01, std: 1.8203e-01
+# Validation # LPIPS: mean: 9.9440e-02, std: 1.5043e-01
