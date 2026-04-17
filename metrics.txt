@@ -1,0 +1,76 @@
+/root/data2/PID2/dataset/KAIST512/lwir-gt
+# Validation # PSNR: mean: 2.5720e+01, std: 3.6439e+00
+# Validation # SSIM: mean: 8.3562e-01, std: 8.0899e-02
+# Validation # LPIPS: mean: 9.8946e-02, std: 3.7808e-02
+/root/data2/PID2/dataset/KAIST512/lwir-gt
+# Validation # PSNR: mean: 2.5720e+01, std: 3.6439e+00
+# Validation # SSIM: mean: 8.3562e-01, std: 8.0899e-02
+# Validation # LPIPS: mean: 9.8946e-02, std: 3.7808e-02
+/root/data2/PID/dataset/1/2
+# Validation # PSNR: mean: 2.9252e+01, std: 9.9186e-03
+# Validation # SSIM: mean: 8.8686e-01, std: 1.4090e-04
+# Validation # LPIPS: mean: 8.7258e-02, std: 4.7776e-04
+/root/data2/PID/dataset/1/2
+# Validation # PSNR: mean: 2.9252e+01, std: 9.9186e-03
+# Validation # SSIM: mean: 8.8686e-01, std: 1.4090e-04
+# Validation # LPIPS: mean: 8.7258e-02, std: 4.7776e-04
+/root/data2/PID/dataset/1/2
+# Validation # PSNR: mean: 2.9252e+01, std: 9.9186e-03
+# Validation # SSIM: mean: 8.8686e-01, std: 1.4090e-04
+# Validation # LPIPS: mean: 8.7258e-02, std: 4.7776e-04
+/root/data2/PID/dataset/20/lwir
+# Validation # PSNR: mean: 3.4701e+01, std: 1.9386e+00
+# Validation # SSIM: mean: 8.9641e-01, std: 4.3595e-02
+# Validation # LPIPS: mean: 2.6470e-02, std: 7.8153e-03
+/root/data2/PID/dataset/20/lwir
+# Validation # PSNR: mean: 2.9749e+01, std: 7.7430e-01
+# Validation # SSIM: mean: 8.8367e-01, std: 2.5341e-02
+# Validation # LPIPS: mean: 8.7111e-02, std: 1.4161e-02
+/root/data2/PID/dataset/20/lwir
+# Validation # PSNR: mean: 3.4701e+01, std: 1.9386e+00
+# Validation # SSIM: mean: 8.9641e-01, std: 4.3595e-02
+# Validation # LPIPS: mean: 2.6470e-02, std: 7.8153e-03
+/root/data2/PID/dataset/20/val_lwir
+# Validation # PSNR: mean: 2.9394e+01, std: 6.1279e+00
+# Validation # SSIM: mean: 8.5650e-01, std: 1.0186e-01
+# Validation # LPIPS: mean: 3.6955e-02, std: 2.8223e-02
+/root/data2/PID/dataset/20/val_lwir
+# Validation # PSNR: mean: 2.7898e+01, std: 6.3374e+00
+# Validation # SSIM: mean: 8.3220e-01, std: 1.0507e-01
+# Validation # LPIPS: mean: 3.8008e-02, std: 2.6288e-02
+/root/data2/PID/dataset/1/2
+# Validation # PSNR: mean: 3.5756e+01, std: 2.3024e+00
+# Validation # SSIM: mean: 8.4222e-01, std: 2.6850e-02
+# Validation # LPIPS: mean: 1.2975e-02, std: 1.8701e-03
+/root/data2/PID/dataset/1/2
+# Validation # PSNR: mean: 2.9252e+01, std: 9.9186e-03
+# Validation # SSIM: mean: 8.8686e-01, std: 1.4090e-04
+# Validation # LPIPS: mean: 8.7258e-02, std: 4.7776e-04
+/root/data2/PID/dataset/1/2
+# Validation # PSNR: mean: 2.9252e+01, std: 9.9186e-03
+# Validation # SSIM: mean: 8.8686e-01, std: 1.4090e-04
+# Validation # LPIPS: mean: 8.7258e-02, std: 4.7776e-04
+/root/data2/PID/dataset/1/2
+# Validation # PSNR: mean: 3.5565e+01, std: 1.3114e+00
+# Validation # SSIM: mean: 8.7147e-01, std: 1.9664e-02
+# Validation # LPIPS: mean: 1.3899e-02, std: 1.0551e-03
+/root/data2/PID/dataset/1/2
+# Validation # PSNR: mean: 3.5756e+01, std: 2.3024e+00
+# Validation # SSIM: mean: 8.4222e-01, std: 2.6850e-02
+# Validation # LPIPS: mean: 1.2975e-02, std: 1.8701e-03
+/root/data2/PID/dataset/1/2
+# Validation # PSNR: mean: 3.6553e+01, std: 2.5164e+00
+# Validation # SSIM: mean: 8.7615e-01, std: 2.3170e-02
+# Validation # LPIPS: mean: 1.3465e-02, std: 1.3212e-03
+/root/data2/PID/dataset/1/2
+# Validation # PSNR: mean: 3.6695e+01, std: 3.0203e+00
+# Validation # SSIM: mean: 8.6538e-01, std: 4.4868e-02
+# Validation # LPIPS: mean: 1.2293e-02, std: 1.3588e-03
+/root/data2/PID/dataset/val/lwir
+# Validation # PSNR: mean: 3.5235e+01, std: 1.9994e+00
+# Validation # SSIM: mean: 8.9871e-01, std: 4.2224e-02
+# Validation # LPIPS: mean: 2.7502e-02, std: 8.1859e-03
+/root/data2/PID/dataset/val/lwir
+# Validation # PSNR: mean: 3.7533e+01, std: 3.4357e+00
+# Validation # SSIM: mean: 9.0982e-01, std: 5.4315e-02
+# Validation # LPIPS: mean: 1.2848e-02, std: 3.2649e-03
